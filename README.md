@@ -1,5 +1,5 @@
 
-# Benchmarks for Object Detection in Aerial Images
+# Oriented Bounding Box for Object Detection in Aerial Images
 
 ## Introduction
 This codebase is created to build benchmarks for object detection in aerial images.
