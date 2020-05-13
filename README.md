@@ -7,7 +7,7 @@ It is modified from [mmdetection](https://github.com/open-mmlab/mmdetection).
 The master branch works with **PyTorch 1.1** or higher. If you would like to use PyTorch 0.4.1,
 please checkout to the [pytorch-0.4.1](https://github.com/open-mmlab/mmdetection/tree/pytorch-0.4.1) branch.
 
-![detected_results](results.jpg)
+![detected_results](results.png)
 ### Main Features
 To adapt to object detection in aerial images, this repo has several unique and new features compared to the original [mmdetection](https://github.com/open-mmlab/mmdetection)
 - **Support Oriented Object Detection**
